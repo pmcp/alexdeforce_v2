@@ -1,0 +1,47 @@
+---
+title: Great, Life is Great, When Drunk with... - Ep.04
+date: 2022-05-26T14:50:05.092Z
+category: radio
+draft: false
+featured: false
+image: https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/2/d/d/e/6adf-6916-4349-bc51-b53a363765b4
+---
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FTheWordMagazine%2Falex-deforce-02052018%2F" frameborder="0" ></iframe>
+
+INTRO BY GROENLANDSCHE HAAI
+
+'T HOF VAN COMMERCE - GELE STYLO
+
+DAEDELUS - LODED
+
+POEM: BÉNÉ GESSERIT - DÉSIRES-DÉLIRES
+
+URSULA DUDZIAK - NIGHT IN TUNISIA
+
+POEM: BRYAN LEWIS SAUNDERS - TV POETRY
+
+LAURIE ANDERSON - LATE SHOW
+
+ZOOGZ RIFT - THE GREAT APES ARE GRAPES
+
+POEM: ANDY T - DIRTY SQUATTERS
+
+THE RED CRAYOLA - MICRO-CHIPS & FISH
+
+THE DIRTBOMBS - KUNG FU
+
+POEM: DIANA OZONE - JIJ LOONSLAAF
+
+INTERLUDE: NO CHAMPAGNE ON THE FLYER
+
+DARK DAY WINDOW - NUDES IN THE FOREST
+
+POEM: À;GRUMH... - ANION HCO3 0,386G/L
+
+LERON THOMAS - OLD FRIENDS
+
+GINO VANNELLI - LADY
+
+RAKAA IRISCIENCE - WORK THE ANGLES (READ BY AD)
+
+GENTLE GIANT - PROCLAMATION

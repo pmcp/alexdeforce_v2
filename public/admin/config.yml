@@ -1,0 +1,110 @@
+backend:
+  name: git-gateway
+  branch: main
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: 'articles'
+    label: 'Articles'
+    label_singular: 'Article'
+    folder: "content/articles"
+    summary: "[{{year}}/{{month}}/{{day}} - {{category}}]  {{title}}"
+    view_filters:
+      - label: "TXT"
+        field: category
+        pattern: 'txt'
+      - label: "Poezie"
+        field: category
+        pattern: 'poezie'
+      - label: "Img"
+        field: category
+        pattern: 'img'
+      - label: "Radio"
+        field: category
+        pattern: 'radio'
+      - label: "News"
+        field: category
+        pattern: 'news'
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: 'Publish Date'
+        name: 'date'
+        widget: 'datetime'
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: [ "poezie", "txt", "img", "radio", "news" ]
+      - label: 'Tags'
+        name: 'tags'
+        widget: 'relation'
+        required: false
+        collection: 'tags'
+        search_fields: [ 'name' ]
+        value_field: 'name'
+        multiple: true
+        display_fields: [ 'name' ]
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false}
+      - label: Body
+        name: body
+        widget: markdown
+      - label: 'Image'
+        name: 'image'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: false,
+            previewStep: false
+      - {label: "Embed", name: "embed", widget: "text", required: false}
+  - label: "Agenda"
+    name: "agenda"
+    folder: "content/agenda"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Date", name: "date", widget: "datetime", default: ""}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+  - name: 'tags'
+    label: 'Tags'
+    folder: 'content/tags'
+    format: 'frontmatter'
+    create: true
+    slug: '{{name}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Name', name: 'name', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+  - label: "Page"
+    name: "pages"
+    folder: "content/pages"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "External page", name: "external", widget: "boolean", default: false}
+      - {label: "Url (if external)", name: "url", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+  - label: "Settings"
+    name: "settings"
+    files:
+      - label: "Todo"
+        name: "todo"
+        file: "content/todo.yml"
+        fields:
+          - {label: todo, name: todo, widget: markdown}
