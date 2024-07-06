@@ -27,7 +27,7 @@ const articles = await queryContent('articles')
     draft: false
   })
   .find()
-console.log(articles)
+
 definePageMeta({
   layout: 'totnutoe'
 })
