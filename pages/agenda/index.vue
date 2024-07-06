@@ -67,13 +67,13 @@ const articles = await queryContent('agenda')
     })
     .find()
 
-const oldArticles = await queryContent('agenda')
-    .sort({ date: 1})
-    .where({
-      draft: false,
-      date: { $lte: currentDate }
-    })
-    .find()
+// const oldArticles = await queryContent('agenda')
+//     .sort({ date: 1})
+//     .where({
+//       draft: false,
+//       date: { $lte: currentDate }
+//     })
+//     .find()
 
 function formatDate(date) {
   return format(date, 'YYYY-MM-DD')
