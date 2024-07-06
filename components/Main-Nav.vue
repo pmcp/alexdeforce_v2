@@ -3,7 +3,7 @@
     role="navigation"
     aria-labelledby="mainNav"
     class="flex text-xs md:text-sm pl-1 md:pl-0"
-  >{{ $route.path }}
+  >
     <h2
       id="mainNav"
       class="hidden"
