@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     '@nuxt/image'
   ],
   css: ['~/assets/css/main.css'],
+  devtools: { enabled: true },
   tailwindcss: {
     config: {
       plugins: [tailwindTypography],
