@@ -11,6 +11,7 @@
     <nuxt-link
       to="/totnutoe/poezie"
       class="inline-block uppercase border-b-2 leading-5 border-white hover:border-black md:mr-5 pt-1.5 px-2 md:p-2"
+      :class="{'router-link-active': $route.path.includes('/poezie')}"
     >Poezie</nuxt-link>
     <nuxt-link
       class="inline-block uppercase border-b-2 leading-5 border-white hover:border-black md:mr-5 pt-1.5 px-2 md:p-2"
