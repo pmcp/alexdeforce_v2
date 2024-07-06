@@ -6,10 +6,6 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxt/image'
   ],
-  // components: {
-  //   global: true,
-  //   dirs: ['~/components']
-  // },
   css: ['~/assets/css/main.css'],
   tailwindcss: {
     config: {
@@ -20,8 +16,4 @@ export default defineNuxtConfig({
     provider: 'netlify',
     domains: ['alexdeforce.b-cdn.net']
   }
-  // extends: [
-    // ['github:pmcp/nuxtLayers#base', { install: true }],
-    // ['github:pmcp/nuxtLayers#dev', { install: true }]
-  // ]
 })
