@@ -29,9 +29,6 @@ dependencies:
   swiper:
     specifier: ^11.1.4
     version: 11.1.4
-  ufo:
-    specifier: ^1.5.3
-    version: 1.5.3
   vue:
     specifier: latest
     version: 3.4.31
