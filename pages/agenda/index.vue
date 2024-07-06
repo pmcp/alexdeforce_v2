@@ -14,10 +14,6 @@
           >
             <span v-if="a.date">{{ formatDate(a.date) }} - </span>{{ a.title }}
           </nuxtLink>
-          <!--suppress VueMissingComponentImportInspection -->
-          <tags
-            v-if="a.tags"
-            :tags="a.tags" />
         </li>
       </ul>
       <div v-else>
@@ -26,29 +22,25 @@
     </div>
 
 
-<!--    <div class="mt-10">-->
-<!--      <h2 class="text-lg mb-1">Afgelopen</h2>-->
-<!--      <ul>-->
-<!--        <li-->
-<!--          v-for="a in oldArticles"-->
-<!--          :key="a.slug"-->
-<!--          class="py-1">-->
-<!--          <nuxt-link-->
-<!--            :to="`agenda/${a.slug}`"-->
-<!--            class="inline-block border-b-2 border-white hover:border-black pt-1"-->
-<!--          >-->
-<!--            <div v-if="a.date" >{{ formatDate(a.date) }} - {{ a.title }}</div>-->
-<!--          </nuxt-link>-->
-<!--          &lt;!&ndash;suppress VueMissingComponentImportInspection &ndash;&gt;-->
-<!--          <tags-->
-<!--            v-if="a.tags"-->
-<!--            :tags="a.tags" />-->
-<!--        </li>-->
-<!--      </ul>-->
-<!--&lt;!&ndash;      <div v-else>&ndash;&gt;-->
-<!--&lt;!&ndash;        No passed events&ndash;&gt;-->
-<!--&lt;!&ndash;      </div>&ndash;&gt;-->
-<!--    </div>-->
+    <div class="mt-10">
+      <h2 class="text-lg mb-1">Afgelopen</h2>
+      <ul>
+        <li
+          v-for="a in oldArticles"
+          :key="a.slug"
+          class="py-1">
+          <nuxt-link
+            :to="`agenda/${a.slug}`"
+            class="inline-block border-b-2 border-white hover:border-black pt-1"
+          >
+            <span v-if="a.date" >{{ formatDate(a.date) }} - </span>{{ a.title }}
+          </nuxt-link>
+        </li>
+      </ul>
+<!--      <div v-else>-->
+<!--        No passed events-->
+<!--      </div>-->
+    </div>
 
   </div>
 </template>
