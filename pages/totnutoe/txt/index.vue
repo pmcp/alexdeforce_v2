@@ -8,6 +8,7 @@
       <nuxtLink
         :to="`${a.category}/${a._path.slice(10)}`"
         class="inline-block border-b-2 border-white hover:border-black pt-1"
+        :class="{'router-link-active': $route.path.includes('/txt')}"
       >
         {{ a.title }}
       </nuxtLink>

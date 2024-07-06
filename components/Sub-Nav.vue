@@ -4,6 +4,7 @@
     aria-labelledby="subNav"
     class="w-full flex text-xs md:text-sm"
   >
+    {{ $route.path}}
     <h2
       id="subNav"
       class="hidden"
