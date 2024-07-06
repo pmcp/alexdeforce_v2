@@ -4,8 +4,12 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
-    '@nuxt/image'
+    '@nuxt/image',
+    '@nuxtjs/plausible'
   ],
+  plausible: {
+    domain: 'alexdeforce.com'
+  },
   css: ['~/assets/css/main.css'],
   devtools: { enabled: true },
   tailwindcss: {

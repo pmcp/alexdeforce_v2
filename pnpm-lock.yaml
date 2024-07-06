@@ -14,6 +14,9 @@ dependencies:
   '@nuxt/image':
     specifier: ^1.7.0
     version: 1.7.0
+  '@nuxtjs/plausible':
+    specifier: ^1.0.0
+    version: 1.0.0
   '@nuxtjs/tailwindcss':
     specifier: ^6.12.0
     version: 6.12.0
@@ -412,6 +415,10 @@ packages:
       '@babel/helper-string-parser': 7.24.7
       '@babel/helper-validator-identifier': 7.24.7
       to-fast-properties: 2.0.0
+    dev: false
+
+  /@barbapapazes/plausible-tracker@0.4.0:
+    resolution: {integrity: sha512-4hhXK62ORb4feJfjnIILXRnb6xfejHM6yvGCid6MwNdKiQyj6YLW0M779zXLH5IBS4mQObmrNul2HUleeavSKw==}
     dev: false
 
   /@cloudflare/kv-asset-handler@0.3.4:
@@ -1068,7 +1075,7 @@ packages:
   /@nuxt/content@2.13.1(nuxt@3.12.2)(vue@3.4.31):
     resolution: {integrity: sha512-s33sjNCYhFBQxTaWt+NuaCKmnDlYawyYjge8aR+VnCse8jJNRrUM5Rjl38YLF+kH6VqC8yS6zmOIBylDB04nOA==}
     dependencies:
-      '@nuxt/kit': 3.12.3
+      '@nuxt/kit': 3.12.3(magicast@0.3.4)
       '@nuxtjs/mdc': 0.8.3
       '@vueuse/core': 10.11.0(vue@3.4.31)
       '@vueuse/head': 2.0.0(vue@3.4.31)
@@ -1129,7 +1136,7 @@ packages:
     peerDependencies:
       vite: '*'
     dependencies:
-      '@nuxt/kit': 3.12.2(magicast@0.3.4)
+      '@nuxt/kit': 3.12.3(magicast@0.3.4)
       '@nuxt/schema': 3.12.2
       execa: 7.2.0
       vite: 5.3.2
@@ -1210,7 +1217,7 @@ packages:
     resolution: {integrity: sha512-zSj32bLgbV9AvLkLX0pF52J5KBfSyj0eSIdpXCtTJATSZlqgcJigoCvmabC1nbcMIp0SZ29Bu9+acQpGTQKz+g==}
     engines: {node: ^14.16.0 || >=16.11.0}
     dependencies:
-      '@nuxt/kit': 3.12.3
+      '@nuxt/kit': 3.12.3(magicast@0.3.4)
       consola: 3.2.3
       defu: 6.1.4
       h3: 1.12.0
@@ -1272,7 +1279,7 @@ packages:
       - supports-color
     dev: false
 
-  /@nuxt/kit@3.12.3:
+  /@nuxt/kit@3.12.3(magicast@0.3.4):
     resolution: {integrity: sha512-5R8FZLDxBKlkDWYsqwU1tctGJ5vwMA96WBrNkpQ0LznB2/p+3MWWTO6vz+0P0F9xvZZfkk/KKyZ3uUhnG9VJOA==}
     engines: {node: ^14.18.0 || >=16.10.0}
     dependencies:
@@ -1437,7 +1444,7 @@ packages:
   /@nuxtjs/mdc@0.8.3:
     resolution: {integrity: sha512-FqvJFWkBN9u2FeWog+7+C0aIOx0WIu61TYgAXPmmIOVVua6s2mXQsMyF3fXY2M56QBIaYJzK/SYN+5FGr5GNTQ==}
     dependencies:
-      '@nuxt/kit': 3.12.3
+      '@nuxt/kit': 3.12.3(magicast@0.3.4)
       '@shikijs/transformers': 1.10.1
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
@@ -1472,6 +1479,18 @@ packages:
       unist-builder: 4.0.0
       unist-util-visit: 5.0.0
       unwasm: 0.3.9
+    transitivePeerDependencies:
+      - magicast
+      - rollup
+      - supports-color
+    dev: false
+
+  /@nuxtjs/plausible@1.0.0:
+    resolution: {integrity: sha512-2K0/AbPJAEr3yMA8oDD0I6WB+SXs/YlF297azjR5eSZVQjuimDAwLf4bEXk9ilbrzoMFmm0Tpzn4CC6f0rISBA==}
+    dependencies:
+      '@barbapapazes/plausible-tracker': 0.4.0
+      '@nuxt/kit': 3.12.3(magicast@0.3.4)
+      defu: 6.1.4
     transitivePeerDependencies:
       - magicast
       - rollup
@@ -2604,7 +2623,7 @@ packages:
     peerDependencies:
       nuxt: ^3.0.0
     dependencies:
-      '@nuxt/kit': 3.12.3
+      '@nuxt/kit': 3.12.3(magicast@0.3.4)
       '@vueuse/core': 10.11.0(vue@3.4.31)
       '@vueuse/metadata': 10.11.0
       local-pkg: 0.5.0
