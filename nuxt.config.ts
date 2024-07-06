@@ -16,6 +16,10 @@ export default defineNuxtConfig({
       plugins: [tailwindTypography],
     }
   },
+  image: {
+    provider: 'netlify',
+    domains: ['alexdeforce.b-cdn.net']
+  }
   // extends: [
     // ['github:pmcp/nuxtLayers#base', { install: true }],
     // ['github:pmcp/nuxtLayers#dev', { install: true }]
