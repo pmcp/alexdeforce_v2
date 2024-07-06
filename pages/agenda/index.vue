@@ -12,7 +12,7 @@
             :to="a._path"
             class="inline-block border-b-2 border-white hover:border-black pt-1"
           >
-            <div v-if="a.date" >{{ formatDate(a.date) }} - {{ a.title }}</div>
+            <div ><span v-if="a.date">{{ formatDate(a.date) }} - </span>{{ a.title }}</div>
           </nuxtLink>
           <!--suppress VueMissingComponentImportInspection -->
           <tags
