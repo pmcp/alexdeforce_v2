@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxtjs/plausible'
   ],
+
   plausible: {
     domain: 'alexdeforce.com'
   },
