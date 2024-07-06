@@ -2,9 +2,9 @@
   <div>
     <div>
       <h2 class="text-lg mb-1">Binnenkort</h2>
-      <ul v-if="articles && articles.length">
+      <ul v-if="newArticles && newArticles.length">
         <li
-          v-for="a in articles"
+          v-for="a in newArticles"
           :key="a.slug"
           class="py-1">
 
@@ -46,26 +46,25 @@
 </template>
 
 <script setup>
-import { format } from '@formkit/tempo'
+import { format, isBefore } from '@formkit/tempo'
 
 const currentDate = new Date()
 currentDate.setHours(0, 0, 0, 0)
 
-const articles = await queryContent('agenda')
+const { data } = await useAsyncData('agenda', () => queryContent('agenda')
     .sort({ date: 1})
     .where({
       draft: false,
-      date: { $gte: currentDate }
+      // date: { $gte: currentDate }
     })
-    .find()
+    .find())
+
 //
-const oldArticles = await queryContent('agenda')
-    .sort({ date: 1})
-    .where({
-      draft: false,
-      date: { $lte: currentDate }
-    })
-    .find()
+const oldArticles = computed(() => data.value.filter(a => isBefore(a.date, currentDate)))
+const newArticles = computed(() => data.value.filter(a => !isBefore(a.date, currentDate)))
+console.log('ALL',data.value)
+console.log('NEW',newArticles.value)
+console.log("OLD",oldArticles.value)
 
 function formatDate(date) {
   return format(date, 'YYYY-MM-DD')
