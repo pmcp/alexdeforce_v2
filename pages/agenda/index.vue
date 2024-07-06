@@ -22,25 +22,25 @@
     </div>
 
 
-<!--    <div class="mt-10">-->
-<!--      <h2 class="text-lg mb-1">Afgelopen</h2>-->
-<!--      <ul>-->
-<!--        <li-->
-<!--          v-for="a in oldArticles"-->
-<!--          :key="a.slug"-->
-<!--          class="py-1">-->
-<!--          <nuxt-link-->
-<!--            :to="`agenda/${a.slug}`"-->
-<!--            class="inline-block border-b-2 border-white hover:border-black pt-1"-->
-<!--          >-->
-<!--            <span v-if="a.date" >{{ formatDate(a.date) }} - </span>{{ a.title }}-->
-<!--          </nuxt-link>-->
-<!--        </li>-->
-<!--      </ul>-->
-<!--&lt;!&ndash;      <div v-else>&ndash;&gt;-->
-<!--&lt;!&ndash;        No passed events&ndash;&gt;-->
-<!--&lt;!&ndash;      </div>&ndash;&gt;-->
-<!--    </div>-->
+    <div class="mt-10">
+      <h2 class="text-lg mb-1">Afgelopen</h2>
+      <ul>
+        <li
+          v-for="a in oldArticles"
+          :key="a.slug"
+          class="py-1">
+          <nuxt-link
+            :to="`agenda/${a.slug}`"
+            class="inline-block border-b-2 border-white hover:border-black pt-1"
+          >
+            <span v-if="a.date" >{{ formatDate(a.date) }} - </span>{{ a.title }}
+          </nuxt-link>
+        </li>
+      </ul>
+<!--      <div v-else>-->
+<!--        No passed events-->
+<!--      </div>-->
+    </div>
 
   </div>
 </template>
@@ -59,13 +59,13 @@ const articles = await queryContent('agenda')
     })
     .find()
 //
-// const oldArticles = await queryContent('agenda')
-//     .sort({ date: 1})
-//     .where({
-//       draft: false,
-//       date: { $lte: currentDate }
-//     })
-//     .find()
+const oldArticles = await queryContent('agenda')
+    .sort({ date: 1})
+    .where({
+      draft: false,
+      date: { $lte: currentDate }
+    })
+    .find()
 
 function formatDate(date) {
   return format(date, 'YYYY-MM-DD')
