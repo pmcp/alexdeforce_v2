@@ -27,6 +27,7 @@ const { data } = await useAsyncData('txt', () => queryContent('articles')
     draft: false
   })
   .find()
+)
 
 definePageMeta({
   layout: 'totnutoe'

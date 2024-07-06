@@ -15,6 +15,7 @@ const { data } = await useAsyncData('featured', () => queryContent('articles')
       draft: false
     })
     .find()
+)
 
 useHead({
   title: 'Alex Deforce',
