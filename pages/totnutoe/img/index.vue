@@ -23,7 +23,7 @@ const route = useRoute()
 const articles = await queryContent('articles')
   .sort({ date: 1})
   .where({
-    category: route.params.category,
+    category: 'img',
     draft: false
   })
   .find()

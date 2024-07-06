@@ -19,11 +19,10 @@
 </template>
 <script setup>
 const route = useRoute()
-
 const articles = await queryContent('articles')
   .sort({ date: 1})
   .where({
-    category: route.params.category,
+    category: 'radio',
     draft: false
   })
   .find()
