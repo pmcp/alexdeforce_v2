@@ -14,9 +14,10 @@
       to="/"
     >nu</nuxtLink>
     <nuxtLink
-      class="text-center whitespace-nowrap inline-block leading-5 uppercase border-b-2 border-white hover:border-black md:mr-5 pt-1.5 px-1 md:p-2"
-      exact
       to="/agenda"
+      class="text-center whitespace-nowrap inline-block leading-5 uppercase border-b-2 border-white hover:border-black md:mr-5 pt-1.5 px-1 md:p-2"
+      :class="{'router-link-active': $route.path.includes('/agenda')}"
+      exact
     >Agenda</nuxtLink>
     <nuxtLink
       class="whitespace-nowrap inline-block uppercase leading-5 border-b-2 border-white hover:border-black md:mr-5 pt-1.5 px-1 md:p-2"
