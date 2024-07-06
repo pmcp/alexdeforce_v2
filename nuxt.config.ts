@@ -11,6 +11,9 @@ export default defineNuxtConfig({
   plausible: {
     domain: 'alexdeforce.com'
   },
+  plausible: {
+    ignoredHostnames: ['localhost'],
+  },
   css: ['~/assets/css/main.css'],
   devtools: { enabled: true },
   tailwindcss: {
