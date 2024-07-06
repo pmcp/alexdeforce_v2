@@ -2,7 +2,7 @@
   <footer class="fixed bottom-5 w-full py-2 md:sticky md:top-16 bg-white z-10 flex flex-row md:block mt-4">
     <div
       v-for="p in pages"
-      :key="p.slug"
+      :key="p._path"
     >
       <nuxtLink
         v-if="!p.external"

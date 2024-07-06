@@ -2,7 +2,7 @@
   <ul>
     <li
       v-for="a in data"
-      :key="a.slug"
+      :key="a._path"
       class="py-1">
 <!--      <pre>{{ a }}</pre>-->
       <nuxtLink
@@ -20,7 +20,7 @@
 <script setup>
 const route = useRoute()
 
-const { data } = await useAsyncData('agenda', () => queryContent('articles')
+const { data } = await useAsyncData('img', () => queryContent('articles')
   .sort({ date: 1})
   .where({
     category: 'img',

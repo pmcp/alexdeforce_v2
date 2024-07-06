@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li
-      v-for="a in articles"
+      v-for="a in data"
       :key="a.slug"
       class="py-1">
 <!--      <pre>{{ a }}</pre>-->
@@ -19,7 +19,7 @@
 </template>
 <script setup>
 const route = useRoute()
-const articles = await queryContent('articles')
+const { data } = await useAsyncData('radio', () => queryContent('articles')
   .sort({ date: 1})
   .where({
     category: 'radio',

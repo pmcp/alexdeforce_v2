@@ -1,8 +1,8 @@
 <template>
   <ul>
     <li
-      v-for="a in articles"
-      :key="a.slug"
+      v-for="a in data"
+      :key="a._path"
       class="py-1">
 <!--      <pre>{{ a }}</pre>-->
       <nuxtLink
@@ -20,7 +20,7 @@
 <script setup>
 const route = useRoute()
 
-const articles = await queryContent('articles')
+const { data } = await useAsyncData('txt', () => queryContent('articles')
   .sort({ date: 1})
   .where({
     category: 'txt',
