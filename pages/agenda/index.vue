@@ -67,4 +67,8 @@ function formatDate(date) {
   return format(date, 'YYYY-MM-DD')
 }
 
+definePageMeta({
+  layout: 'agenda'
+})
+
 </script>
