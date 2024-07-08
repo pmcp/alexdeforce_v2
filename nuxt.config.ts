@@ -9,9 +9,7 @@ export default defineNuxtConfig({
   ],
 
   plausible: {
-    domain: 'alexdeforce.com'
-  },
-  plausible: {
+    domain: 'alexdeforce.com',
     ignoredHostnames: ['localhost'],
   },
   css: ['~/assets/css/main.css'],
