@@ -20,7 +20,7 @@
 <script setup>
 const route = useRoute()
 const { data } = await useAsyncData('radio', () => queryContent('articles')
-  .sort({ date: 1})
+  .sort({ date: -1})
   .where({
     category: 'radio',
     draft: false

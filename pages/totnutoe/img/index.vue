@@ -21,7 +21,7 @@
 const route = useRoute()
 
 const { data } = await useAsyncData('img', () => queryContent('articles')
-  .sort({ date: 1})
+  .sort({ date: -1})
   .where({
     category: 'img',
     draft: false
