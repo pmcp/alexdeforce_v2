@@ -1,2 +1,10 @@
 [images]
   remote_images = ["https://alexdeforce.b-cdn.net/.*"]
+[[redirects]]
+  from = "/led002"
+  to = "/totnutoe/poezie/tussenbruggen"
+  status = 302
+[[redirects]]
+  from = "/led001"
+  to = "/totnutoe/poezie/hoek_van_de_laatste_zon/"
+  status = 302
