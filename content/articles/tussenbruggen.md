@@ -20,7 +20,7 @@ image:
 >
 > Deforce schreef dit gedicht oorspronkelijk in opdracht van de Brusselse Beursschouwburg, als deel van het on the go  project, een reeks mixtape en geluidswandelingen door de stad in lockdown. Voor de sonore variant werkte hij hiervoor samen met Paulo Rietjens (Stikstof, Frontal Studio) en Kyle Coppens (multi-instrumentalist, Belvedear). 
 >
-> Het gedicht is vertaald naar het Frans, Engels en Brusseleir, en door Les Editions Deforce in eigen beheer uitgebracht als gelimiteerde audiocassette en stickerpack. In september 2024 komt Tussenbruggen uit als bundel bij Poëziecentrum, met een extra vertaling naar het Arabisch.
+> Het gedicht is vertaald naar het Frans, Engels en Brusseleir, en door Les Editions Deforce in eigen beheer uitgebracht als gelimiteerde audiocassette en stickerpack. In september 2024 komt Tussenbruggen uit als bundel bij Poëziecentrum/l'Arbre à Paroles, met een extra vertaling naar het Arabisch.
 >
 > Initially recorded for “ON THE GO”, by Beursschouwburg, as a sound walk, best to be enjoyed walking from the Pierre Marchant bridge to the Paepsem bridge in Anderlecht, Belgium, and back, and again, and back again, in an endless loop for as long as you feel like.\
 > \
