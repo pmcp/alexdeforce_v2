@@ -25,7 +25,7 @@ Noodzakelijk Kwaad - [De Wind](https://rotkat.bandcamp.com/album/morsen-met-mens
 K﻿oekbroek - [Steen](https://koekbroek.bandcamp.com/album/no-koek-no-broek)'﻿t Hof Van Commerce - Gele Stylo\
 D﻿elphine Lecompte & Tom America - Geen Succes Blues\
 E﻿dgar Wappenhalter - [Guido Gezelle (B2)](https://edgarwappenhalter.bandcamp.com/album/guido-gezelle)\
-K﻿oekbroek - [Stop](https://koekbroek.bandcamp.com/album/no-koek-no-broek)\
+K﻿oekbroek - [Stop](https://koekbroek.bandcamp.com/album/no-koek-no-broek)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1878358413&color=%23101a27&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kioskradio" title="Kiosk Radio" target="_blank" style="color: #cccccc; text-decoration: none;">Kiosk Radio</a> · <a href="https://soundcloud.com/kioskradio/nonchalance-calculee-990260677" title="Nonchalance Calculée w/ Alex Deforce &amp; Victor Verhelst @ Kiosk Radio 22.07.2024" target="_blank" style="color: #cccccc; text-decoration: none;">Nonchalance Calculée w/ Alex Deforce &amp; Victor Verhelst @ Kiosk Radio 22.07.2024</a></div>
 
