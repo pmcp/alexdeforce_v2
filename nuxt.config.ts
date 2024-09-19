@@ -21,6 +21,6 @@ export default defineNuxtConfig({
   },
   image: {
     provider: 'netlify',
-    domains: ['alexdeforce.b-cdn.net']
+    // domains: ['alexdeforce.b-cdn.net']
   }
 })
