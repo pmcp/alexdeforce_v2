@@ -6,7 +6,7 @@ tags:
   - boek
 draft: false
 featured: true
-image: /img/g0052393.jpg
+image: /img/g0012191_cropped.jpg
 ---
 *Tussenbruggen* is een ‘binge-wandeling’ van botsende belangen en wringende generatiewissels. De aflossing van de wacht waarop niémand zat te wachten, geschreven in het antichambre van de vernieuwingsdrang.\
 Spoiler: het begin eindigt niet.
