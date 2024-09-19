@@ -9,7 +9,7 @@
 
 <script setup>
 const { data } = await useAsyncData('featured', () => queryContent('articles')
-    .sort({ date: 1})
+    .sort({ date: -1})
     .where({
       featured: true,
       draft: false
