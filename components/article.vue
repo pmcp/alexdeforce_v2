@@ -14,6 +14,7 @@
       {{ formatDate(article.date) }}
     </div>
     <h1 class="pb-5"><span class="text-2xl">{{ article.title }}</span></h1>
+    <nuxt-img v-if="article.image" :src="article.image" class="mb-4 w-full h-auto max-w-prose"/>
 <!--    <pre>{{ article }}</pre>-->
     <ContentRenderer :value="article"
       class="text-sm leading-6 prose"
