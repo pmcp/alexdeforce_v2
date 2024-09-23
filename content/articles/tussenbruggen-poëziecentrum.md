@@ -15,6 +15,10 @@ Spoiler: het begin eindigt niet.
 
 **V﻿anaf nu [beschikbaar](https://www.poeziecentrum.be/publicaties/tussenbruggen) in de beste boekenwinkels, [of rechtstreeks bij de auteur](https://7da247-4.myshopify.com/products/book).** 
 
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0YPewVDL6Oqoazww3hH6XG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ***Boek release***:\
 zaterdag 21 september - 17u30\
 tijdens [Poetik Bazar](https://www.facebook.com/PoetikBazarBruxelles?__tn__=-]K-R)\
