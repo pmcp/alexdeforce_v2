@@ -8,8 +8,6 @@ draft: false
 featured: true
 image: /img/g0012191_cropped.jpg
 ---
-[](test)
-
 ![Foto van de hoes van het boek Tussenbruggen](/img/g0012191_cropped.jpg "Tussenbruggen")
 
 *[Tussenbruggen](test)* is een ‘binge-wandeling’ van botsende belangen en wringende generatiewissels. De aflossing van de wacht waarop niémand zat te wachten, geschreven in het antichambre van de vernieuwingsdrang.\
