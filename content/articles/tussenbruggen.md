@@ -10,6 +10,10 @@ featured: false
 image:
   - https://alexdeforce.b-cdn.net/6c452c33-44f9-4dfd-93da-459699f4979e.jpeg
 ---
+![](/img/g0052393.jpg)
+
+
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0YPewVDL6Oqoazww3hH6XG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border: 0; width: 350px; height: 655px;" src="https://bandcamp.com/EmbeddedPlayer/album=358540064/size=large/bgcol=ffffff/linkcol=333333/package=3974311881/transparent=true/" seamless><a href="https://alexdeforce.bandcamp.com/album/tussenbruggen">Tussenbruggen by Alex Deforce &amp; Paulo Rietjens</a></iframe>
