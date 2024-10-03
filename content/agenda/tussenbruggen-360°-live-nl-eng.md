@@ -1,5 +1,5 @@
 ---
-title: Tussenbruggen 360° Live (NL & ENG) - Brussel
+title: Tussenbruggen 360° Live - Brussel
 draft: false
 date: 2024-10-12T17:00:00.000Z
 ---
