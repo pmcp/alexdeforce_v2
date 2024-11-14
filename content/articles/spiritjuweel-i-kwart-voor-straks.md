@@ -4,6 +4,8 @@ date: 2024-11-14T12:07:00.000Z
 category: poezie
 draft: false
 featured: true
+image:
+  - /img/whatsapp-image-2024-11-13-at-20.45.34-1-.jpeg
 ---
 
 
