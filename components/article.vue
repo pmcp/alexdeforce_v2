@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="pmcp-article">
     <back
       :to="isAgenda ? '/agenda' : '/totnutoe/'+article.category"
       class="mb-4">

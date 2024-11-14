@@ -87,3 +87,7 @@ a.router-link-active {
 
 }
 
+/* If image is first element in an article, remove margin-top */
+.pmcp-article div p:first-child img {
+  margin-top: 0;
+}

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="pmcp-article">
     <h1 class="pb-5 pt-1"><span class="text-xl">{{ article.title }}</span></h1>
 <!--    <nuxt-img v-if="article.image" :src="article.image" class="mb-4 w-full h-auto max-w-prose"/>-->
     <ContentRenderer
