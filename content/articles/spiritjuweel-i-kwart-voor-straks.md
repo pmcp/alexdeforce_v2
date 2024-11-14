@@ -42,5 +42,3 @@ Height: 8mm
 Weight: 8g
 
 Each box is custom screen-printed by the poet himself.
-
-![Spiritjuweel I: Kwart Voor Straks (LED006 - Les Editions Deforce)](/img/whatsapp-image-2024-11-13-at-20.45.34-1-.jpeg "Spiritjuweel I: Kwart Voor Straks (LED006 - Les Editions Deforce)")
