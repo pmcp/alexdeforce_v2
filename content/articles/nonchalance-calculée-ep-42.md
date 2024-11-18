@@ -1,5 +1,5 @@
 ---
-title: Nonchalance Calculée - Ep.42
+title: Nonchalance Calculée - Ep.42 (w/ Low G)
 date: 2024-11-04T16:16:00.000Z
 category: radio
 draft: false
