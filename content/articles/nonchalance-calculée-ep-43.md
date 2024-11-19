@@ -13,7 +13,7 @@ featured: false
 Minny Pops - Een Kus\
 [De Rivier](https://gazertapes.bandcamp.com/album/de-rivier) - Waar\
 [Shoko Igarashi](https://tigersushirecords.bandcamp.com/album/onsen-music) - Open The Door\
-Lyckle En Mij - Op De Universiteit\
+[Lyckle En Mij](https://petrolcandy.bandcamp.com/album/nieuwe-nederlandse-na-viteit) - Op De Universiteit\
 [Kamerkaai](https://mostlyinterrupted.bandcamp.com/album/het-jaar-van-de-wolhandkrab) - [Het Jaar Van De Wolhandkrab](https://mostlyinterrupted.bandcamp.com/album/het-jaar-van-de-wolhandkrab)\
 [Edgar Wappenhalter](https://morctapes.bandcamp.com/album/ijsschots-veenlaag-mist) - Boshut Dub\
 Bert De Coninck - Fasten Seatbelts\
