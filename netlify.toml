@@ -1,2 +1,3 @@
 [images]
-  remote_images = ["https://alexdeforce.b-cdn.net/.*"]
+  remote_images = ["https://alexdeforce.b-cdn.net/.*", "https://alexdeforce.com/.*"]
+
