@@ -60,7 +60,9 @@ const { data } = await useAsyncData('agenda', () => queryContent('agenda')
     })
     .find())
 //
-const oldArticles = computed(() => data.value.filter(a => isBefore(a.date, currentDate)))
+
+const oldArticles = computed(() => (data.value.filter(a => isBefore(a.date, currentDate))).reverse())
+
 const newArticles = computed(() => data.value.filter(a => !isBefore(a.date, currentDate)))
 
 function formatDate(date) {
