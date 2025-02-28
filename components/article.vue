@@ -14,8 +14,10 @@
     </div>
     <h1 class="pb-5"><span class="text-2xl">{{ article.title }}</span></h1>
 <!--    <pre>{{ article }}</pre>-->
-    <ContentRenderer :value="article"
-      class="text-sm leading-6 prose"
+    <ContentRenderer
+        v-if="article.body.children.length > 0"
+        :value="article"
+        class="text-sm leading-6 prose"
     />
   </div>
 </template>
