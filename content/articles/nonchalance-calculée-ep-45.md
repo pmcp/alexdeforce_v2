@@ -15,7 +15,10 @@ Paula - [Version3](https://paulapaulapaula.bandcamp.com/track/version3)\
 Johnny Coley - They're Dreaming Me\
 Kim David Bots & Lyckle de Jong - [Visitatie Melodie](https://southofnorthamsterdam.bandcamp.com/album/the-third-of-may)\
 Gavin Vanaelst - [Dunkin' Donuts](https://deejaycharme.bandcamp.com/album/takeaway-loops-2)\
-Mark Drifter - Fidget Spinners for Biopolar Kid
+Mark Drifter - Fidget Spinners for Biopolar Kid\
+<<<<<0H41M40S LIVE: FRANK KEIZER over SONJA PRINS>>>>>\
+<<<<<0H46M50S LIVE: EDGAR WAPPENHALTER>>>>>
+
 
 \
 <iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FKioskRadio%2Fnonchalance-calcul%25C3%25A9e-w-alex-deforce-kiosk-radio-27012025%2F" frameborder="0" ></iframe>\
