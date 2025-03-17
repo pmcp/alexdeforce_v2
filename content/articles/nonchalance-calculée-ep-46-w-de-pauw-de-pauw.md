@@ -1,5 +1,5 @@
 ---
-title: Nonchalance Calculée - Ep.46 (w/ De Pauw & De Pauw)
+title: Nonchalance Calculée - Ep.46 (w/ De Pauw en De Pauw)
 date: 2025-02-24T16:00:00.000Z
 category: radio
 draft: false
