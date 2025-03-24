@@ -4,6 +4,7 @@ date: 2025-02-24T16:00:00.000Z
 category: radio
 draft: false
 featured: false
+embed: ""
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovacHiL_8Fg?si=E30nRT3lyOCvI7Ox" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -25,9 +26,10 @@ EXCERPT FROM "BELL HOOKS - ALL ABOUT LOVE"\
 	4 HEY \
 	5 FLUBBERLIFE\
 	6 GEEN HONDJES \
-	7 PAARDENBLOEMEN
+	7 PAARDENBLOEMEN \
 FAN CLUB ORCHESTRA - LONG STAY I
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2058118948&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kioskradio" title="Kiosk Radio" target="_blank" style="color: #cccccc; text-decoration: none;">Kiosk Radio</a> · <a href="https://soundcloud.com/kioskradio/nonchalance-calculee-w-de-pauw-en-de-pauw" title="Nonchalance Calculée w/ De Pauw en de Pauw @ Kiosk Radio 24.02.2025" target="_blank" style="color: #cccccc; text-decoration: none;">Nonchalance Calculée w/ De Pauw en de Pauw @ Kiosk Radio 24.02.2025</a></div>
 
+<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FKioskRadio%2Fnonchalance-calcul%25C3%25A9e-w-de-pauw-en-de-pauw-kiosk-radio-24022025%2F" frameborder="0" ></iframe>
 
