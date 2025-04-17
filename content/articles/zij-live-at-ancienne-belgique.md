@@ -3,7 +3,7 @@ title: Zij - live at Ancienne Belgique
 date: 2025-02-25T11:00:00.000Z
 category: poezie
 draft: false
-featured: false
+featured: true
 ---
 **Zij - live at Ancienne Belgique** (18/01/2024)\
 Music & Vocals: Charlotte Jacobs\
