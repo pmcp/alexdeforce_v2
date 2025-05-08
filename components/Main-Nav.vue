@@ -24,6 +24,6 @@
       class="whitespace-nowrap inline-block uppercase leading-5 border-b-2 border-white hover:border-black md:mr-5 pt-1.5 px-1 md:p-2"
       :class="{'router-link-active': $route.path.includes('/totnutoe')}"
       to="/totnutoe"
-    >tot nu toe</nuxtLink>
+    >archief</nuxtLink>
   </nav>
 </template>
