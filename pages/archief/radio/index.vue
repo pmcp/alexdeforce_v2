@@ -19,17 +19,16 @@
 </template>
 <script setup>
 const route = useRoute()
-
-const { data } = await useAsyncData('poezie', () => queryContent('articles')
+const { data } = await useAsyncData('radio', () => queryContent('articles')
   .sort({ date: -1})
   .where({
-    category: 'poezie',
+    category: 'radio',
     draft: false
   })
   .find()
 )
 
 definePageMeta({
-  layout: 'totnutoe'
+  layout: 'archief'
 })
 </script>

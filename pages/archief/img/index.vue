@@ -20,16 +20,16 @@
 <script setup>
 const route = useRoute()
 
-const { data } = await useAsyncData('txt', () => queryContent('articles')
+const { data } = await useAsyncData('img', () => queryContent('articles')
   .sort({ date: -1})
   .where({
-    category: 'txt',
+    category: 'img',
     draft: false
   })
   .find()
 )
 
 definePageMeta({
-  layout: 'totnutoe'
+  layout: 'archief'
 })
 </script>

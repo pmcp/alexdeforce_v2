@@ -5,7 +5,7 @@
 <script setup>
 
 definePageMeta({
-  layout: 'totnutoe',
+  layout: 'archief',
 })
 </script>
 

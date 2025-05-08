@@ -7,7 +7,7 @@
 </template>
 <script setup>
 definePageMeta({
-layout: 'totnutoe',
+layout: 'archief',
 })
 
 function getStringAfterLastSlash(str) {

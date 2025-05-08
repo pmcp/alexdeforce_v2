@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
-/led002                /totnutoe/poezie/tussenbruggen
-/led001                /totnutoe/poezie/hoek_van_de_laatste_zon
-/tussenbruggen                /totnutoe/poezie/tussenbruggen
-/spiritjuweel1                /totnutoe/poezie/spiritjuweel-i-kwart-voor-straks
+/led002                /archief/poezie/tussenbruggen
+/led001                /archief/poezie/hoek_van_de_laatste_zon
+/tussenbruggen                /archief/poezie/tussenbruggen
+/spiritjuweel1                /archief/poezie/spiritjuweel-i-kwart-voor-straks
 /totnutoe/*                /archief/:splat
