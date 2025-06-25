@@ -1,5 +1,5 @@
 ---
-title: Live met burgerservice - Brussel
+title: Morgen De Knoop (live met burgerservice) - Brussel
 draft: false
 date: 2024-11-08T21:00:00.000Z
 ---
