@@ -9,7 +9,7 @@ featured: true
 image:
   - /img/led008_cover_endandecrisis_2000px.jpg
 ---
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3568909785/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://alexdeforce.bandcamp.com/track/en-dan-de-crisis">En dan de crisis by Morgen De Knoop</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3568909785/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://alexdeforce.bandcamp.com/track/en-dan-de-crisis">En dan de crisis by Morgen De Knoop</a></iframe>
 
 
 \
