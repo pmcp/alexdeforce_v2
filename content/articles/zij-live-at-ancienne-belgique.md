@@ -2,6 +2,8 @@
 title: Zij - live at Ancienne Belgique
 date: 2025-02-25T11:00:00.000Z
 category: poezie
+tags:
+  - video
 draft: false
 featured: true
 ---
