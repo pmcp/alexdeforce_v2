@@ -19,7 +19,9 @@ JJULIUS - [CORAL BASS STRINGS (FEAT. LOOPSEL & NATHAN ROCHE)](https://mammasmyst
 
 CHARLOTTE LECLERC - [TROP TARD](https://delodiolabel.bandcamp.com/track/trop-tard)
 
-EYOT TAPES - [ROCK SHELTER (ORIGINAL)](https://muscut.bandcamp.com/track/rock-shelter)  
+EYOT TAPES - [ROCK SHELTER (ORIGINAL)](https://muscut.bandcamp.com/track/rock-shelter) \
+\
+ALEX DEFORCE VOOR/OVER JAN TROMP 
 
 DANIËL PAUL - [THEY'RE HITTING FUNGOES (DEMO)](https://mostlyinterrupted.bandcamp.com/album/waterschade-compilatie)
 
