@@ -6,6 +6,8 @@ tags:
   - video
 draft: false
 featured: true
+image:
+  - /img/morgen-de-knoop-simpele-dingen-01.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gCZ-SbNA074?si=4MB1vck1XpG5VlHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>\
 \
