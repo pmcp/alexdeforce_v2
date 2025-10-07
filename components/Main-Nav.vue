@@ -21,9 +21,16 @@
       exact
     >Agenda</nuxtLink>
     <nuxtLink
+        class="whitespace-nowrap inline-block uppercase leading-5 border-b-2 border-white hover:border-black md:mr-5 pt-1.5 px-1 md:p-2"
+        :class="{'router-link-active': $route.path.includes('/totnutoe')}"
+        to="/totnutoe"
+    >Tot Nu Toe</nuxtLink>
+    <nuxtLink
       class="whitespace-nowrap inline-block uppercase leading-5 border-b-2 border-white hover:border-black md:mr-5 pt-1.5 px-1 md:p-2"
-      :class="{'router-link-active': $route.path.includes('/archief')}"
-      to="/archief"
-    >archief</nuxtLink>
+      :class="{'router-link-active': $route.path.includes('/archive')}"
+      to="/archive"
+    >Archief</nuxtLink>
   </nav>
 </template>
+<script setup lang="ts">
+</script>

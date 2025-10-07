@@ -2,7 +2,7 @@
   <ul>
     <li
       v-for="a in data"
-      :key="a._path"
+      :key="a.slug"
       class="py-1">
 <!--      <pre>{{ a }}</pre>-->
       <nuxtLink
@@ -20,16 +20,16 @@
 <script setup>
 const route = useRoute()
 
-const { data } = await useAsyncData('txt', () => queryContent('articles')
+const { data } = await useAsyncData('poezie', () => queryContent('articles')
   .sort({ date: -1})
   .where({
-    category: 'txt',
+    category: 'poezie',
     draft: false
   })
   .find()
 )
 
 definePageMeta({
-  layout: 'archief'
+  layout: 'archief',
 })
 </script>

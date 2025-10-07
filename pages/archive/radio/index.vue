@@ -29,6 +29,6 @@ const { data } = await useAsyncData('radio', () => queryContent('articles')
 )
 
 definePageMeta({
-  layout: 'archief'
+  layout: 'archief',
 })
 </script>

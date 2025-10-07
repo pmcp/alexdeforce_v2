@@ -1,7 +1,7 @@
 <template>
   <div class="pmcp-article">
     <back
-      :to="isAgenda ? '/agenda' : '/archief/'+article.category"
+      :to="isAgenda ? '/agenda' : '/archive/'+article.category"
       class="mb-4">
       <span v-if="article.category === 'poezie'">poëzie</span>
       <span v-else>{{ article.category }}</span>
