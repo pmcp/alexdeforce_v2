@@ -13,7 +13,7 @@ external: false
 
 Recent releases:
 2025: *Tot nu toe -* Poëziecentrum\
-2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - as Morgen De Knoop
+2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - as *Morgen De Knoop*
 2024: *Tussenbruggen -* Poëziecentrum
 2024: *Kwart Voor Straks -* Stroom\
 \
@@ -33,7 +33,7 @@ In a previous life (2010-2015) he ran On-Point, a culture site, video series and
 
 Recente releases:
 2025: *Tot nu toe -* Poëziecentrum
-2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - as Morgen De Knoop
+2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - als *Morgen De Knoop*
 2024: *Tussenbruggen -* Poëziecentrum
 2024: *Kwart Voor Straks -* Stroom\
 \
