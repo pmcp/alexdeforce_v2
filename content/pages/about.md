@@ -12,13 +12,15 @@ external: false
 **EN**
 
 Recent releases:
-2025: *Tot nu toe -* Poëziecentrum\
-2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - as *Morgen De Knoop*
-2024: *Tussenbruggen -* Poëziecentrum
-2024: *Kwart Voor Straks -* Stroom\
-\
-Alex Deforce (°1984) made his debut as a poet in January 2019 with Nachtdichter, by Victor De Roo, on the Amsterdam-based label Knekelhuis. The same year he featured on Brihang’s Casco album, for which he recited poems by Georges Perec. September 2020 his first solo 7” vinyl will be released on Lexi Disques. Once a month you can listen to Alex's radio show at Nonchalance Calculée on Kiosk.radio, a show about: poetry, bar culture and the Brussels dialect.
 
+
+* 2025: *Tot nu toe -* Poëziecentrum
+* 2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - as *Morgen De Knoop*
+* 2024: *Tussenbruggen -* Poëziecentrum
+* 2024: *Kwart Voor Straks -* Stroom
+
+Alex Deforce (°1984) made his debut as a poet in January 2019 with Nachtdichter, by Victor De Roo, on the Amsterdam-based label Knekelhuis. The same year he featured on Brihang’s Casco album, for which he recited poems by Georges Perec. September 2020 his first solo 7” vinyl will be released on Lexi Disques. Once a month you can listen to Alex's radio show at Nonchalance Calculée on Kiosk.radio, a show about: poetry, bar culture and the Brussels dialect.\
+\
 During the lockdown, Alex was part of the ‘Dichters van wacht’ project and he saw his first poem published in Paris-based literary volume The Opiate. By the end of the year he was featured in ‘Zwemlessen voor later’, the first poetry volume by Klimaatdichters, published by Uitgeverij Vrijdag. He is also part of deBuren’s Besmette Stad project celebrating poet Paul Van Ostaijen, for which he’s collaborating with Dutch producer Endfest. 
 
 In 2022 Les Editions Deforce saw the light of day, a small publishing house with releases of collaborations with Victor De Roo, Paulo Rietjens and Azertyklavierwerke, among others. In 2024 the album Kwart voor straks, a collaboration with Charlotte Jacobs, was released by the renowned label Stroom, the release show took place at the Ancienne Belgique, the album got played on both BBC3 and BBC6.
