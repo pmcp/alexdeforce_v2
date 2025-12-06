@@ -34,12 +34,13 @@ In a previous life (2010-2015) he ran On-Point, a culture site, video series and
 **NL**
 
 Recente releases:
-2025: *Tot nu toe -* Poëziecentrum
-2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - als *Morgen De Knoop*
-2024: *Tussenbruggen -* Poëziecentrum
-2024: *Kwart Voor Straks -* Stroom\
-\
-Begin 2019 zette Alex Deforce (°1984) zijn eerste dichterlijke stappen op 'Nachtdichter' van Victor De Roo, bij het Amsterdamse label Knekelhuis. Recenter voorzag hij Brihang van poëtische interludiums op zijn 'Casco' album, waarvoor hij gedichten van Georges Perec voordroeg. In 2020 kwam zijn eerste solo 7 inch vinyl uit op het Brusselse Lexi Disques label, poëzie op muziek van en met Charlotte Jacobs en Wiet Lengeler.
+
+* 2025: *Tot nu toe -* Poëziecentrum
+* 2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - as *Morgen De Knoop*
+* 2024: *Tussenbruggen -* Poëziecentrum
+* 2024: *Kwart Voor Straks -* Stroom
+
+Begin 2019 zette Alex Deforce zijn eerste dichterlijke stappen op 'Nachtdichter' van Victor De Roo, bij het Amsterdamse label Knekelhuis. Recenter voorzag hij Brihang van poëtische interludiums op zijn 'Casco' album, waarvoor hij gedichten van Georges Perec voordroeg. In 2020 kwam zijn eerste solo 7 inch vinyl uit op het Brusselse Lexi Disques label, poëzie op muziek van en met Charlotte Jacobs en Wiet Lengeler.
 
 Tijdens de eerste corona lockdown was Alex deel van de ‘Dichters van wacht’ en werd voor het eerst een gedicht opgenomen in de Parijse (Engelstalige) bundel The Opiate. Iets later werd een gedicht opgenomen in ‘Zwemlessen voor later’, de eerste bundel van het Klimaatdichters collectief, uitgegeven door Uitgeverij Vrijdag. Alex is ook deel van deBuren’s Besmette Stad project ter hommage aan Paul Van Ostaijen, hiervoor maakte hij samen met Nederlandse producer Endfest het acid poëzie nummer ‘re:Folies Bar’. 
 
