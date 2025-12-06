@@ -3,16 +3,11 @@ title: About
 date: 2022-05-25T18:12:37.677Z
 external: false
 ---
-**Contact:** alexdeforce(at)gmail.com
-
-**[Instagram](http://instagram.com/alexdeforce)**
-
-**[Press photos](https://drive.google.com/drive/folders/1zt8Cor2rf7j1FeL8e1mpRnWn2UZJ3VtY?usp=sharing)**
+**[Press photos](https://drive.google.com/drive/folders/1zt8Cor2rf7j1FeL8e1mpRnWn2UZJ3VtY?usp=sharing)** - **Contact:** alexdeforce(at)gmail.com
 
 **EN**
 
 Recent releases:
-
 
 * 2025: *Tot nu toe -* Poëziecentrum
 * 2025: *Driezits*, *Simpele Dingen*, *En dan de crisis* - as *Morgen De Knoop*
