@@ -5,7 +5,7 @@ category: radio
 draft: false
 featured: true
 ---
-Speciale talkshow episode, een portret van, een gesprek met: \[Serge Van Duijnhoven](https://sergevanduijnhoven.wordpress.com/).\
+Speciale talkshow episode: een gesprek met: \[Serge Van Duijnhoven](https://sergevanduijnhoven.wordpress.com/).\
 
 > Dichter en podiumbeest. Wizzard of Oss (geboren aldaar in 1970), alchemist van het woord, derwish van verlangen, oorlogsverslaggever, schrijver van filmscripts, pionier op het gebied van de techno-poëzie. In de jaren negentig maakte hij in Nederland en Vlaanderen furore met het tijdboek MillenniuM en, ver daarbuiten, met zijn band Dichters Dansen Niet (Poets Don’t Dance). Van Duijnhoven won de Nova Makedonia Award, en was een van de passagiers aan boord van de Literature Express Europe 2000, verbleef in Armenië, Frankrijk en de VS als writer in residence. Negentien jaar lang woonde hij in Brussel, waar hij werkte als verslaggever. Op 5 september 2025 verschijnt een monumentale nieuwe bundel van Van Duijnhoven: Nooit meer zo nu. Een klapper van 300 pagina’s, tevens de eerste uitgave van de B.V. Exupéry & Company.
 
