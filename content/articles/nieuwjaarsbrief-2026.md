@@ -3,7 +3,7 @@ title: Nieuwjaarsbrief 2026
 date: 2026-01-14T22:07:00.000+01:00
 category: txt
 draft: false
-featured: false
+featured: true
 ---
 Ergens in een archief in Antwerpen ligt de eerste:
 
