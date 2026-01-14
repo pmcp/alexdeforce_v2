@@ -5,6 +5,8 @@ category: txt
 draft: false
 featured: true
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iA7-iEeXj58?si=z0pDgkco57MLBumP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>\
+\
 Ergens in een archief in Antwerpen ligt de eerste:
 
 *folio 225*, in het Latijn, in dichtvorm.
@@ -43,8 +45,6 @@ Dat komt goed uit, want mijn goede voornemen is om dit jaar minder te snoozen.
 
 Van de 41 nieuwjaren die ik heb mogen meemaken, was dit het enige met een boor als wekker.
 
-
-
 Kleine *disclaimer*, deze speech of nieuwjaarsbrief is hoogst persoonlijk:
 
 van mij, voor mij, voor u en dan van u, mensen die willen, kunnen, een e-mailadres geven en ik stuur de pdf.
@@ -64,8 +64,6 @@ Verder ons best zullen we blijven doen.
 Liefste meter, liefste peter, hoe meer jullie geven, hoe beter.
 
 Nee, dat is niet waar. Ik vraag niets dit jaar.
-
-
 
 Behalve misschien dit:
 
@@ -91,8 +89,6 @@ Ik zei: 'PUTAIN, ik leef in een jaaroverzicht, alle dagen van 't beste!'
 
 Maar dat was ook niet waar.
 
-
-
 Dat laatste had ik gedroomd.
 
 Ik heb nooit zoveel gedroomd als vorig jaar.
@@ -114,8 +110,6 @@ Dat wens ik de grootstad toe: dorpelijke dromen.
 Verboden, verboden, kleinere torens, grotere ambities op kleinere schalen,
 
 sorry, ik ben aan het afdwalen.
-
-
 
 Van de 41 die ik er heb mogen meemaken is 2025 mijn minst favoriete jaar geweest.
 
@@ -147,8 +141,6 @@ luide lounge verder de wereld veroverde,
 
 terwijl de wereld zichzelf niet wist te veroveren.
 
-
-
 En wij maar swipen.
 
 Links, rechts, rechts, rechts, rechts links, rechts, rechts, rechts, rechts, rechts.
@@ -160,8 +152,6 @@ Zo zenuwachtig constant alles aan het missen
 De dokter gaf mij pilletjes tegen de zenuwachtigheid.
 
 Hier, voor de zenuwzachtigheid.
-
-
 
 Over minder dan een jaar zal ik mijn leven nauwelijks nog herkennen.
 
@@ -188,8 +178,6 @@ De cursor knippert, misschien is dat mijn hoop voor dit jaar.
 De kleine hoekjes van het leven spelen, spelen, spelen
 
 en voor iedereen één voor één onredelijk veel leven.
-
-
 
 Brussel 12 januari 2026, \
 je kapoen Alex.
