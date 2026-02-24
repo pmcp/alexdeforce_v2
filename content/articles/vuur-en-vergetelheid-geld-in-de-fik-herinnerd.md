@@ -69,7 +69,7 @@ image:
 
 ##### Vandenbroucke knikt langzaam. "Misschien hadden wij het ook wel moeten verbranden. Een schone breuk. Een zuivering door vuur."
 
-##### Hij glimlacht voor het eerst maar zijn glimlach loopt meteen vast, alsof zijn aanwezigheid moet bufferen. In de verte klinkt de omroep voor de Eurostar naar Brussel, hij schudt zijn wangen los en concludeert wijs maar verward: "Enfin, bon, soit, soms lijkt de herinnering aan geld waardevoller dan het geld zelf."
+##### Hij glimlacht voor het eerst maar zijn glimlach loopt meteen vast, alsof zijn aanwezigheid buffert. In de verte klinkt de omroep voor de Eurostar naar Brussel, hij schudt zijn wangen los en concludeert wijs maar verward: "*Enfin, bon, soit*, soms lijkt de herinnering aan geld waardevoller dan het geld zelf."
 
 ##### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
