@@ -55,17 +55,16 @@ Vandenbroucke fronst. "Is dat jullie echte reden?"
 
 "Niets," antwoordt Bill. "Je moet op automatische piloot staan om zoiets te doen. Als je nadenkt over elk bundeltje van 50 pond... we moesten steeds meer bundels tegelijk op het vuur gooien omdat het anders te lang zou duren. We wilden terug naar het hotel en slapen.*"
 
-# Vandenbroucke’s decappuccino \
-is in 1996 nog niet uitgevonden, \
+# Vandenbroucke’s decappuccino 
+is in 1996 nog niet uitgevonden, 
 maar zijn Londense americano is er wel al.
 
-# Hij snakt naar een licht toetsje stevia \
-maar het zal nog tot 2011 duren \
-eer Europa de verkoop \
-daarvan zal regulariseren,\
-en illegale stevia \
-kan hij zich niet permitteren. \
-\
+# Hij snakt naar een licht toetsje stevia 
+maar het zal nog tot 2011 duren 
+eer Europa de verkoop 
+daarvan zal regulariseren,
+en illegale stevia 
+kan hij zich niet permitteren. 
 Zonder zoet roert hij verder.
 
 # Deze ontmoeting komt te laat in zijn leven, en hij weet niet of hij daar wel of niet treurig om moet zijn.
