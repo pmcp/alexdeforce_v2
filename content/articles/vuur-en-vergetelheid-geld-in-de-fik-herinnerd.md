@@ -15,7 +15,7 @@ image:
 
 # De krantenkoppen over zijn vermeende opdracht om partijgeld te verbranden zijn eindelijk aan het uitdoven. Hij snuift, bladerend door The Guardian. 
 
-# In werkelijkheid was dat geld nooit verbrand.
+# In werkelijkheid is dat geld nooit verbrand.
 
 "Zijn deze zetels bezet?"
 
