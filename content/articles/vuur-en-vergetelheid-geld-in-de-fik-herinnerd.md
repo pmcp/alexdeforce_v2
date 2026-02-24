@@ -9,7 +9,7 @@ image:
 ---
 # **Londen, 1996, de meest druilerige novemberavond van het decennium. Frank Vandenbroucke, voormalig voorzitter van de Belgische socialistische partij, gaf net een lezing aan de London School of Economics over Europese monetaire integratie. Nu wacht hij in de vertrekruimte van Waterloo International op de trein terug naar Brussel. De krantenkoppen over zijn vermeende opdracht om partijgeld te verbranden zijn eindelijk aan het wegsterven. Hij snuift, bladerend door The Guardian. In werkelijkheid was dat geld nooit verbrand.**
 
-> #### "Zijn deze zetels bezet?"
+#### "Zijn deze zetels bezet?"
 
 ##### Vandenbroucke kijkt op. Voor hem twee mannen, één in een versleten maatpak en één in een versleten leren jas, de geur van sigaretten en een vleugje anarchie. Hij herkent ze vaag. Een aan lager wal geraakte arthouse regisseur en zijn verwaande wannabe-boekhouder, dacht hij, maar dewelke..?
 
