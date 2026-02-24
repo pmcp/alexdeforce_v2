@@ -45,7 +45,7 @@ Een gespannen stilte valt. In de verte klinken kniersende treinsporen alsof ze v
 
 Bill haalt zijn schouders op. "We vinden nog elke dag nieuwe redenen.*"
 
-Jimmy buigt voorover: "Gisteren bedacht ik de beste reden tot nu toe. Ik keek naar *Top of the Pops* met mijn kinderen en Michael Jackson's video kwam voorbij. Ik besefte plots: we hebben het verbrand omdat we nooit zo getalenteerd zullen zijn als Michael.*"
+Jimmy buigt voorover: "Gisteren bedacht ik de beste reden tot nu toe. Ik met mijn kids naar *Top of the Pops* en Michael Jackson's video kwam voorbij. Ik besefte plots: we hebben het verbrand omdat we nooit zo getalenteerd zullen zijn als Michael.*"
 
 Vandenbroucke fronst. "Is dat jullie echte reden?"
 
