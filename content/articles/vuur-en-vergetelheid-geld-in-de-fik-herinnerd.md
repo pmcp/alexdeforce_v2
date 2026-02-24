@@ -11,15 +11,15 @@ image:
 
 # Frank Vandenbroucke, voormalig voorzitter van de Belgische socialistische partij, gaf net een lezing aan de London School of Economics over Europese monetaire integratie. In de vertrekruimte van Waterloo International wacht hij op de trein terug naar Brussel. De krantenkoppen over zijn vermeende opdracht om partijgeld te verbranden zijn eindelijk aan het uitdoven. Hij snuift, bladerend door The Guardian. In werkelijkheid was dat geld nooit verbrand.
 
-##### "Zijn deze zetels bezet?"
+"Zijn deze zetels bezet?"
 
-##### Vandenbroucke kijkt op. Voor hem twee mannen, één in een versleten maatpak en één in een versleten leren jas, de geur van sigaretten en een vleugje anarchie. Hij herkent ze vaag. Een aan lager wal geraakte arthouse regisseur en zijn verwaande wannabe-boekhouder, dacht hij, maar dewelke..?
+Vandenbroucke kijkt op. Voor hem twee mannen, één in een versleten maatpak en één in een versleten leren jas, de geur van sigaretten en een vleugje anarchie. Hij herkent ze vaag. Een aan lager wal geraakte arthouse regisseur en zijn verwaande wannabe-boekhouder, dacht hij, maar dewelke..?
 
-##### "Bill Drummond." Het tweedehands pak steekt zijn hand uit. "En dit is Jimmy Cauty."
+"Bill Drummond." Het tweedehands pak steekt zijn hand uit. "En dit is Jimmy Cauty."
 
-##### "Frank Vandenbroucke," antwoordt hij, ondertussen stevig handen schuddend. "The KLF! De band?"
+"Frank Vandenbroucke," antwoordt hij, ondertussen stevig handen schuddend. "The KLF! De band?"
 
-##### "K Foundation eigenlijk, kunstenaarsduo," corrigeert Bill terwijl ze gaan zitten. "De muziek hebben we opgegeven."
+"K Foundation eigenlijk, kunstenaarsduo," corrigeert Bill terwijl ze gaan zitten. "De muziek hebben we opgegeven."
 
 ##### "Jullie zijn die twee die een miljoen pond hebben verbrand," realiseert Vandenbroucke zich plotseling.
 
