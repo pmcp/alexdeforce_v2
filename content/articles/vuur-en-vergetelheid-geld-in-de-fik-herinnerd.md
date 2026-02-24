@@ -7,7 +7,7 @@ featured: false
 image:
   - /img/screenshot-2026-02-24-at-13.01.54.jpg
 ---
-# **Londen, 1996, de meest druilerige novemberavond van het decennium. Frank Vandenbroucke, voormalig voorzitter van de Belgische socialistische partij, gaf net een lezing aan de London School of Economics over Europese monetaire integratie. Nu wacht hij in de vertrekruimte van Waterloo International op de trein terug naar Brussel. De krantenkoppen over zijn vermeende opdracht om partijgeld te verbranden zijn eindelijk aan het wegsterven. Hij snuift, bladerend door The Guardian. In werkelijkheid was dat geld nooit verbrand.**
+# **Londen, 1996, de meest druilerige novemberavond van het decennium. Frank Vandenbroucke, voormalig voorzitter van de Belgische socialistische partij, gaf net een lezing aan de London School of Economics over Europese monetaire integratie. In de vertrekruimte van Waterloo International wacht hij op de trein terug naar Brussel. De krantenkoppen over zijn vermeende opdracht om partijgeld te verbranden zijn eindelijk aan het uitdoven. Hij snuift, bladerend door The Guardian. In werkelijkheid was dat geld nooit verbrand.**
 
 #### "Zijn deze zetels bezet?"
 
