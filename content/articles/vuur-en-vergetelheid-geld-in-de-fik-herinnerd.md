@@ -13,7 +13,7 @@ image:
 
 # In de vertrekruimte van Waterloo International wacht hij op de trein terug naar Brussel.
 
-# De krantenkoppen over zijn vermeende opdracht om partijgeld te verbranden zijn eindelijk aan het uitdoven. Hij snuift, bladerend door The Guardian.
+# De krantenkoppen over de vermeende verbranding van het partijgeld zijn eindelijk aan het uitdoven. Hij snuift verongelijkt bladerend door The Guardian.
 
 # In werkelijkheid is dat geld nooit verbrand.
 
