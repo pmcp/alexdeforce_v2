@@ -33,7 +33,7 @@ image:
 
 ##### Een gespannen stilte valt. In de verte klinken kniersende treinsporen alsof ze vechtende marters uit elkaar moeten martelen, het geluid van metaal dat niet langer zwijgen kan, weerkaatst tegen de glazen daken en koepels van het treinstation. De spanning is een beetje overroepen.
 
-##### "Waarom hebben jullie het gedaan?" vraagt Vandenbroucke uiteindelijk. "Een miljoen pond verbranden... dat is waanzin."
+##### "Waarom hebben jullie het gedaan?" vraagt Vandenbroucke uiteindelijk. "Een miljoen pond... dat is waanzin."
 
 ##### Bill haalt zijn schouders op. "We vinden nog elke dag nieuwe redenen.*"
 
