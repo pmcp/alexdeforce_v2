@@ -19,9 +19,13 @@ Niemand riep. Niemand leek iets concreet te doen. Tot plots iedereen het op een 
 2020-21: 
 
 > Het park is en blijft
+
 > Een plaats voor tijdverdrijf
+
 > Een plaats voor jou en mij
+
 > ergens in het stedelijke zijn
+
 
 *[Music for hikers](https://kioskrecs.bandcamp.com/album/pal-music-for-hikers)* is de eerste plaat die [Kiosk Records](https://kioskrecs.bandcamp.com/) binnenkort uitbrengt, het label van de gelijknamige radio, bijgenaamd ‘de sauna’, althans door de dj’s. In opdracht van de Beursschouwburg maakte PAL een audio wandeling door het Warandepark en delen van haar heden en van haar verleden. Net als hun eerste worp ‘Afzondering’ herinnert het volledige album aan lockdown tijden. Toen we niet mochten zitten, of wel mochten zitten, of moesten zitten, of verplicht bleven bewegen,... Soit, die tijden dus. Toen we niet samentroepten voor Pokémons, maar voor elkaar. En de radio was ons nog gegund, een beetje. Mijn middelvinger vroor vast aan de pintjes die we voor de politie verborgen, en ik mompelde nog eens iets.
 
