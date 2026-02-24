@@ -9,7 +9,7 @@ image:
 ---
 # Londen, 1996. De meest druilerige novemberavond van het decennium.
 
-# Frank Vandenbroucke, voormalig voorzitter van de Belgische socialistische partij, heeft net een lezing aan de London School of Economics gegeven, over Europese monetaire integratie.
+# Frank Vandenbroucke, voormalig voorzitter van de Belgische socialistische partij, heeft net een lezing gegeven aan de London School of Economics, over Europese monetaire integratie.
 
 # In de vertrekruimte van Waterloo International wacht hij op de trein terug naar Brussel.
 
