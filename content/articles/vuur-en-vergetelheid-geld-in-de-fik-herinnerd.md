@@ -11,41 +11,41 @@ image:
 
 > #### "Zijn deze zetels bezet?"
 
-#### Vandenbroucke kijkt op. Voor hem twee mannen, één in een versleten maatpak en één in een versleten leren jas, de geur van sigaretten en een vleugje anarchie. Hij herkent ze vaag. Een aan lager wal geraakte arthouse regisseur en zijn verwaande wannabe-boekhouder, dacht hij, maar dewelke..?
+##### Vandenbroucke kijkt op. Voor hem twee mannen, één in een versleten maatpak en één in een versleten leren jas, de geur van sigaretten en een vleugje anarchie. Hij herkent ze vaag. Een aan lager wal geraakte arthouse regisseur en zijn verwaande wannabe-boekhouder, dacht hij, maar dewelke..?
 
-#### "Bill Drummond." Het tweedehands pak steekt zijn hand uit. "En dit is Jimmy Cauty."
+##### "Bill Drummond." Het tweedehands pak steekt zijn hand uit. "En dit is Jimmy Cauty."
 
-#### "Frank Vandenbroucke," antwoordt hij, ondertussen stevig handen schuddend. "The KLF! De band?"
+##### "Frank Vandenbroucke," antwoordt hij, ondertussen stevig handen schuddend. "The KLF! De band?"
 
-#### "K Foundation eigenlijk, kunstenaarsduo," corrigeert Bill terwijl ze gaan zitten. "De muziek hebben we opgegeven."
+##### "K Foundation eigenlijk, kunstenaarsduo," corrigeert Bill terwijl ze gaan zitten. "De muziek hebben we opgegeven."
 
-#### "Jullie zijn die twee die een miljoen pond hebben verbrand," realiseert Vandenbroucke zich plotseling.
+##### "Jullie zijn die twee die een miljoen pond hebben verbrand," realiseert Vandenbroucke zich plotseling.
 
-#### Jimmy glimlacht. "En jij bent de politicus die zei: 'Steek dat geld in brand', toch?"
+##### Jimmy glimlacht. "En jij bent de politicus die zei: 'Steek dat geld in brand', toch?"
 
-#### Vandenbroucke verstijft. "Hoe weten jullie dat?"
+##### Vandenbroucke verstijft. "Hoe weten jullie dat?"
 
-#### "Het stond in de krant! De Belgische minister die smeergeld wilde verbranden. We dachten, deze man begrijpt ons."
+##### "Het stond in de krant! De Belgische minister die smeergeld wilde verbranden. We dachten, deze man begrijpt ons."
 
-#### "Dat klopt niet," mompelt Vandenbroucke geïrriteerd. "Ik heb iets impulsiefs gezegd toen ik verdacht cash geld ontdekte in de kluis van de partij, maar mijn suggestie is niet opgevolgd. Er is geen geld verbrand."
+##### "Dat klopt niet," mompelt Vandenbroucke geïrriteerd. "Ik heb iets impulsiefs gezegd toen ik verdacht cash geld ontdekte in de kluis van de partij, maar mijn suggestie is niet opgevolgd. Er is geen geld verbrand."
 
-#### "Dat is jammer, wij hebben het wel echt gedaan."
+##### "Dat is jammer, wij hebben het wel echt gedaan."
 
-#### Een gespannen stilte valt. In de verte klinken kniersende treinsporen alsof ze vechtende marters uit elkaar moeten martelen, het geluid van metaal dat niet langer zwijgen kan, weerkaatst tegen de glazen daken en koepels van het treinstation. De spanning is een beetje overroepen.
+##### Een gespannen stilte valt. In de verte klinken kniersende treinsporen alsof ze vechtende marters uit elkaar moeten martelen, het geluid van metaal dat niet langer zwijgen kan, weerkaatst tegen de glazen daken en koepels van het treinstation. De spanning is een beetje overroepen.
 
-#### "Waarom hebben jullie het gedaan?" vraagt Vandenbroucke uiteindelijk. "Een miljoen pond verbranden... dat is waanzin."
+##### "Waarom hebben jullie het gedaan?" vraagt Vandenbroucke uiteindelijk. "Een miljoen pond verbranden... dat is waanzin."
 
-#### Bill haalt zijn schouders op. "We vinden nog elke dag nieuwe redenen.*"
+##### Bill haalt zijn schouders op. "We vinden nog elke dag nieuwe redenen.*"
 
-#### Jimmy leunt voorover: "Gisteren bedacht ik de beste reden tot nu toe. Ik keek naar *Top of the Pops* met mijn kinderen en Michael Jackson's video kwam voorbij. Ik besefte plots: we hebben het verbrand omdat we nooit zo getalenteerd zullen zijn als Michael.* "
+##### Jimmy leunt voorover: "Gisteren bedacht ik de beste reden tot nu toe. Ik keek naar *Top of the Pops* met mijn kinderen en Michael Jackson's video kwam voorbij. Ik besefte plots: we hebben het verbrand omdat we nooit zo getalenteerd zullen zijn als Michael.* "
 
-#### Vandenbroucke fronst. "Is dat jullie echte reden?"
+##### Vandenbroucke fronst. "Is dat jullie echte reden?"
 
-#### "Sommige dagen wel. We hebben geen definitieve reden. We hadden het geld kunnen gebruiken, we wilden het hebben, maar meer nog wilden we het verbranden.* "
+##### "Sommige dagen wel. We hebben geen definitieve reden. We hadden het geld kunnen gebruiken, we wilden het hebben, maar meer nog wilden we het verbranden.* "
 
-#### "Wat voelden jullie dan toen je het zag branden?"
+##### "Wat voelden jullie dan toen je het zag branden?"
 
-#### "Niets," antwoordt Bill. "Je moet op automatische piloot staan om zoiets te doen. Als je nadenkt over elk bundeltje van 50 pond... we moesten steeds meer bundels tegelijk op het vuur gooien omdat het anders te lang zou duren. We wilden terug naar het hotel en slapen.* "
+##### "Niets," antwoordt Bill. "Je moet op automatische piloot staan om zoiets te doen. Als je nadenkt over elk bundeltje van 50 pond... we moesten steeds meer bundels tegelijk op het vuur gooien omdat het anders te lang zou duren. We wilden terug naar het hotel en slapen.* "
 
 ## Vandenbroucke’s decapuccino is in 1995 nog niet uitgevonden, maar zijn Londense americano is er wel al. Hij snakt naar een licht toetsje stevia maar het zal nog tot 2011 duren eer Europa de verkoop daarvan zal regulariseren, en illegale stevia kan hij zich niet permitteren. Zonder zoet roert hij verder. Deze ontmoeting komt te laat in zijn leven, en hij weet niet of hij daar wel of niet treurig om moet zijn.
 
