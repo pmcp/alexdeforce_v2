@@ -47,7 +47,7 @@ Vandenbroucke fronst. "Is dat jullie echte reden?"
 
 "Niets," antwoordt Bill. "Je moet op automatische piloot staan om zoiets te doen. Als je nadenkt over elk bundeltje van 50 pond... we moesten steeds meer bundels tegelijk op het vuur gooien omdat het anders te lang zou duren. We wilden terug naar het hotel en slapen.* "
 
-Vandenbroucke’s decapuccino is in 1995 nog niet uitgevonden, maar zijn Londense americano is er wel al. Hij snakt naar een licht toetsje stevia maar het zou nog tot 2011 duren eer Europa de verkoop daarvan zou regulariseren, en illegale stevia kon hij zich niet permitteren. Zonder zoet roert hij verder. Deze ontmoeting komt te laat in zijn leven, en hij weet niet of hij daar wel of niet treurig om moet zijn.
+Vandenbroucke’s decapuccino is in 1995 nog niet uitgevonden, maar zijn Londense americano is er wel al. Hij snakt naar een licht toetsje stevia maar het zal nog tot 2011 duren eer Europa de verkoop daarvan zal regulariseren, en illegale stevia kan hij zich niet permitteren. Zonder zoet roert hij verder. Deze ontmoeting komt te laat in zijn leven, en hij weet niet of hij daar wel of niet treurig om moet zijn.
 
 "Mensen," spreekt hij langzaam, "denken nog steeds dat ik geld heb verbrand. Het is een mythe geworden. Bankiers zeggen er nu tegen hun klanten dat geld 'staatseigendom' is waar je voorzichtig mee moet zijn, tenzij je minister bent, dan mag je er stapels van verbranden voor de camera's. Dat staan ze te verkondigen aan de loketten van de banken! Maar er is niets van waar."
 
