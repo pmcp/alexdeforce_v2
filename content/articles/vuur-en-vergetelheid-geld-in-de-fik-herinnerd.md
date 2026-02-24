@@ -9,7 +9,13 @@ image:
 ---
 # Londen, 1996. De meest druilerige novemberavond van het decennium.
 
-# Frank Vandenbroucke, voormalig voorzitter van de Belgische socialistische partij, gaf net een lezing aan de London School of Economics over Europese monetaire integratie. In de vertrekruimte van Waterloo International wacht hij op de trein terug naar Brussel. De krantenkoppen over zijn vermeende opdracht om partijgeld te verbranden zijn eindelijk aan het uitdoven. Hij snuift, bladerend door The Guardian. In werkelijkheid was dat geld nooit verbrand.
+# Frank Vandenbroucke, voormalig voorzitter van de Belgische socialistische partij, gaf net een lezing aan de London School of Economics over Europese monetaire integratie. 
+
+# In de vertrekruimte van Waterloo International wacht hij op de trein terug naar Brussel. 
+
+# De krantenkoppen over zijn vermeende opdracht om partijgeld te verbranden zijn eindelijk aan het uitdoven. Hij snuift, bladerend door The Guardian. 
+
+# In werkelijkheid was dat geld nooit verbrand.
 
 "Zijn deze zetels bezet?"
 
@@ -49,8 +55,6 @@ Vandenbroucke fronst. "Is dat jullie echte reden?"
 
 "Niets," antwoordt Bill. "Je moet op automatische piloot staan om zoiets te doen. Als je nadenkt over elk bundeltje van 50 pond... we moesten steeds meer bundels tegelijk op het vuur gooien omdat het anders te lang zou duren. We wilden terug naar het hotel en slapen.* "
 
-
-
 ### Vandenbroucke’s decapuccino is in 1995 nog niet uitgevonden, maar zijn Londense americano is er wel al. Hij snakt naar een licht toetsje stevia maar het zal nog tot 2011 duren eer Europa de verkoop daarvan zal regulariseren, en illegale stevia kan hij zich niet permitteren. Zonder zoet roert hij verder. Deze ontmoeting komt te laat in zijn leven, en hij weet niet of hij daar wel of niet treurig om moet zijn.
 
 "Mensen," spreekt hij langzaam, "denken nog steeds dat ik geld heb verbrand. Het is een mythe geworden. Bankiers zeggen er nu tegen hun klanten dat geld 'staatseigendom' is waar je voorzichtig mee moet zijn, tenzij je minister bent, dan mag je er stapels van verbranden voor de camera's. Dat staan ze te verkondigen aan de loketten van de banken! Maar er is niets van waar."
@@ -75,10 +79,6 @@ Hij glimlacht voor het eerst maar zijn glimlach loopt meteen vast, alsof zijn aa
 
 *Hoewel kranten in 2002 expliciet berichtten dat het Agusta-smeergeld uit de brandkast nooit verbrand is, blijft de collectieve overtuiging dat er miljoenen in vlammen opgingen. Dit contrasteert sterk met de geldverbranding door The KLF, die wel degelijk plaatsvond, met video-opnames als bewijs. Beide geldverbrandingen, echt of ingebeeld, hebben hun plek in ons collectief geheugen veroverd - herinneringen aan momenten waarop de rituele vernietiging van rijkdom, zoals in eeuwenoude Chinese tradities, plots opdook in de westerse cultuur.*
 
-
-
 Deze tekst is in mei 2025 geschreven in opdracht van Murf/Murw zine (Tilburg, NL) voor het themanummer over [het Mandela-effect](https://nl.wikipedia.org/wiki/Mandela-effect).
-
-
 
 \* Bron: [Why did The K Foundation burn a million quid? Interview with Gay Byrne: The Late Late Show, 1995](https://www.youtube.com/watch?v=21nhIZ9QF80&t=137s)
