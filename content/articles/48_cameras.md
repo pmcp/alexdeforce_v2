@@ -22,6 +22,10 @@ decided to change his name to Jean during the last years of his life. Yves, clos
 longtime collaborator to J-M’s 48 Cameras project, refused to accept the name and possible
 character change.
 
+
+
+![](/img/bm-fr-nl-logo-rgb.png)
+
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2732285038/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stroomtv.bandcamp.com/album/chosen-songs">Chosen Songs by 48 Cameras</a></iframe>
 
 48 Cameras was the brainchild and life project of self-proclaimed non-musician Jean-Marie
