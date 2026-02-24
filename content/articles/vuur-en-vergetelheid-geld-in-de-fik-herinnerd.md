@@ -69,6 +69,8 @@ image:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*Hoewel kranten in 2002 expliciet berichtten dat het Agusta-smeergeld uit de brandkast nooit verbrand is, blijft de collectieve overtuiging dat er miljoenen in vlammen opgingen. Dit contrasteert sterk met de geldverbranding door The KLF, die wel degelijk plaatsvond, met video-opnames als bewijs. Beide geldverbrandingen, echt of ingebeeld, hebben hun plek in ons collectief geheugen veroverd - herinneringen aan momenten waarop de rituele vernietiging van rijkdom, zoals in eeuwenoude Chinese tradities, plots opdook in de westerse cultuur.*
+*Hoewel kranten in 2002 expliciet berichtten dat het Agusta-smeergeld uit de brandkast nooit verbrand is, blijft de collectieve overtuiging dat er miljoenen in vlammen opgingen. Dit contrasteert sterk met de geldverbranding door The KLF, die wel degelijk plaatsvond, met video-opnames als bewijs. Beide geldverbrandingen, echt of ingebeeld, hebben hun plek in ons collectief geheugen veroverd - herinneringen aan momenten waarop de rituele vernietiging van rijkdom, zoals in eeuwenoude Chinese tradities, plots opdook in de westerse cultuur.*\
+\
+Deze tekst is in mei 2025 geschreven in opdracht van *Murf/Murw* zine (Tilburg, NL) voor het themanummer over het Mandela-effect.
 
 \* Bron: Why did The K Foundation burn a million quid? Interview with Gay Byrne: The Late Late Show, 1995 (<https://www.youtube.com/watch?v=21nhIZ9QF80&t=137s>)
