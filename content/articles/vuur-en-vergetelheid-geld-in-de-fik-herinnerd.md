@@ -5,7 +5,7 @@ category: txt
 draft: false
 featured: false
 image:
-  - /img/screenshot-2026-02-24-at-13.01.54.jpg
+  - /img/screenshot-2026-02-24-at-13.45.31.jpg
 ---
 # Londen, 1996. De meest druilerige novemberavond van het decennium.
 
