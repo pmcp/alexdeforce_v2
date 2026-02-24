@@ -45,15 +45,15 @@ Een gespannen stilte valt. In de verte klinken kniersende treinsporen alsof ze v
 
 Bill haalt zijn schouders op. "We vinden nog elke dag nieuwe redenen.*"
 
-Jimmy buigt voorover: "Gisteren bedacht ik de beste reden tot nu toe. Ik keek naar *Top of the Pops* met mijn kinderen en Michael Jackson's video kwam voorbij. Ik besefte plots: we hebben het verbrand omdat we nooit zo getalenteerd zullen zijn als Michael.* "
+Jimmy buigt voorover: "Gisteren bedacht ik de beste reden tot nu toe. Ik keek naar *Top of the Pops* met mijn kinderen en Michael Jackson's video kwam voorbij. Ik besefte plots: we hebben het verbrand omdat we nooit zo getalenteerd zullen zijn als Michael.*"
 
 Vandenbroucke fronst. "Is dat jullie echte reden?"
 
-"Sommige dagen wel. We hebben geen definitieve reden. We hadden het geld kunnen gebruiken, we wilden het hebben, maar meer nog wilden we het verbranden.* "
+"Sommige dagen wel. We hebben geen definitieve reden. We hadden het geld kunnen gebruiken, we wilden het hebben, maar meer nog wilden we het verbranden.*"
 
 "Wat voelden jullie dan toen je het zag branden?"
 
-"Niets," antwoordt Bill. "Je moet op automatische piloot staan om zoiets te doen. Als je nadenkt over elk bundeltje van 50 pond... we moesten steeds meer bundels tegelijk op het vuur gooien omdat het anders te lang zou duren. We wilden terug naar het hotel en slapen.* "
+"Niets," antwoordt Bill. "Je moet op automatische piloot staan om zoiets te doen. Als je nadenkt over elk bundeltje van 50 pond... we moesten steeds meer bundels tegelijk op het vuur gooien omdat het anders te lang zou duren. We wilden terug naar het hotel en slapen.*"
 
 # Vandenbroucke’s decapuccino is in 1995 nog niet uitgevonden, maar zijn Londense americano is er wel al. Hij snakt naar een licht toetsje stevia maar het zal nog tot 2011 duren eer Europa de verkoop daarvan zal regulariseren, en illegale stevia kan hij zich niet permitteren. Zonder zoet roert hij verder. Deze ontmoeting komt te laat in zijn leven, en hij weet niet of hij daar wel of niet treurig om moet zijn.
 
