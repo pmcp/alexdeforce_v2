@@ -35,7 +35,7 @@ Vandenbroucke verstijft. "Hoe weten jullie dat?"
 
 "Het stond in de krant! De Belgische minister die smeergeld wilde verbranden. We dachten, deze man begrijpt ons."
 
-"Dat klopt niet," mompelt Vandenbroucke geïrriteerd. "Ik heb iets impulsiefs gezegd toen ik verdacht cash geld ontdekte in de kluis van de partij, maar mijn suggestie is niet opgevolgd. Er is geen geld verbrand."
+"Dat klopt niet," mompelt Vandenbroucke geïrriteerd. "Ik heb iets impulsief gezegd toen ik verdacht cash geld ontdekte in de kluis van de partij, maar mijn suggestie is niet opgevolgd. Er is geen geld verbrand."
 
 "Jammer, wij hebben het wel echt gedaan."
 
