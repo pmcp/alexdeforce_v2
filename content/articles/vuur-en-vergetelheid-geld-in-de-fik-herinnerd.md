@@ -59,13 +59,13 @@ Jimmy hangt filosofisch comfortabel in zijn transitzetel: "In China verbranden m
 
 "Dat is ook wat wij in interviews verkondigden," voegt Bill toe. "Dat het geld naar de grote hemelbank is gegaan. Na onze dood, zal er een miljoen pond op ons wachten in de hemel, met rente. Gisteren dacht ik dat we dat miljoen verbrandden omdat het hiernamaals niet bestaat. Vandaag denk ik dat we het verbrandden omdat het hiernamaals het enige is dat wél bestaat."
 
-Vandenbroucke's blik verduistert. "In België blijft de eeuwige vraag: 'Waar zijn die vijf miljoen frank, Frank?' Alsof ik het in mijn zak heb gestoken."
+De blik van de voormalige partijvoorzitter verduistert. "In België blijft de eeuwige vraag: 'Waar zijn die vijf miljoen frank, Frank?' Alsof ik ze in mijn zak heb gestoken."
 
 "Jouw geldverbranding was fictief maar wordt 'herinnerd'," zegt Bill. "De onze was echt maar wordt altijd in twijfel getrokken. Dat vind ik fascinerend."
 
 "Zou je het opnieuw doen?"
 
-Bill aarzelt niet: "Absoluut! Dit is het beste wat we ooit hebben gedaan. Ons verbrand miljoen pond sterling leeft voort in het collectieve bewustzijn. Als kunst kan het niet beter."
+Bill aarzelt niet: "Absoluut! Het is het beste wat we ooit hebben gedaan. Ons verbrand miljoen pond sterling leeft voort in het collectieve bewustzijn. Als kunst kan het niet beter."
 
 Vandenbroucke knikt langzaam. "Misschien hadden wij het ook wel moeten verbranden. Een schone breuk. Een zuivering door vuur."
 
