@@ -22,6 +22,8 @@ FREDERIK CROENE - [C'EST KIKI, IN MEMORIAM DANIEL KINET (†15.07.1910)](https:/
 
 ENNO VELTHUYS - [SOMETHING SPECIAL](https://stroomtv.bandcamp.com/album/music-from-the-other-side-of-the-fence)
 
+**LIVE: NICOLAS VAN BELLE**
+
 WEILAND AND WIO - [VERENIGDE EENDEN NATIES](https://almosthalloweentimerecords.bandcamp.com/album/verenigde-eenden-naties)
 
 STINE JANVIN / MORTEN JOH - [BEFORE THE BURIAL SITE](https://futuraresistenza.bandcamp.com/album/or-gare-funeral-procession-music-from-ryfylke-norway)
