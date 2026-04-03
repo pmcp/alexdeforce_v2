@@ -3,7 +3,7 @@ title: Nonchalance Calculée - Ep.56 (w/ Serge Van Duijnhoven)
 date: 2025-12-05T15:00:00.000+01:00
 category: radio
 draft: false
-featured: true
+featured: false
 ---
 Speciale talkshow episode: een gesprek met: \[Serge Van Duijnhoven](https://sergevanduijnhoven.wordpress.com/).\
 
