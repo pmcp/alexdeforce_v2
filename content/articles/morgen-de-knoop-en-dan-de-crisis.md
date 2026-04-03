@@ -5,7 +5,7 @@ category: poezie
 tags:
   - audio
 draft: false
-featured: true
+featured: false
 image:
   - /img/led008_cover_endandecrisis_2000px.jpg
 ---
