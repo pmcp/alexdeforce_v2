@@ -39,6 +39,9 @@ Begin 2019 zette Alex Deforce zijn eerste dichterlijke stappen op *Nachtdichter*
 
 Tijdens de eerste corona lockdown was Alex deel van de *Dichters van wacht* en werd voor het eerst een gedicht opgenomen in de Parijse (Engelstalige) bundel The Opiate. Iets later werd een gedicht opgenomen in *Zwemlessen voor later*, de eerste bundel van het Klimaatdichters collectief, uitgegeven door Uitgeverij Vrijdag. Alex is ook deel van deBuren’s *Besmette Stad* project ter hommage aan Paul Van Ostaijen, hiervoor maakte hij samen met Nederlandse producer Endfest het acid poëzie nummer *re:Folies Bar.* 
 
+In 2024 kwam *[Tussenbruggen](https://www.poeziecentrum.be/publicaties/tussenbruggen)* uit bij Poëziecentrum.
+In 2025 kwam *[Tot nu toe](https://www.poeziecentrum.be/publicaties/tot-nu-toe)* uit bij Poëziecentrum.
+
 I﻿n 2022 startte Les Editions Deforce, een kleine uitgeverij met uitgaves van samenwerkingen met o.a. Victor De Roo, Paulo Rietjens, Azertyklavierwerke en burger service. In 2024 kwam het album *Kwart voor straks*, een samenwerking met Charlotte Jacobs, uit bij het gerenommeerde  label Stroom, de release show vond plaats in de Ancienne Belgique. Het album trok de aandacht van zowel BBC3 als BBC6.
 
 Eén keer per maand kan u luisteren naar Alex' radioshow *Nonchalance Calculée* op het Brusselse Kiosk radio, een show met als centrale thema's: poëzie, de kunst van het tooghangen en de Brusselse tongval.
