@@ -1,5 +1,5 @@
 ---
-title: " Mailinglist Shop Tot nu toe Nonchalance Calculée - Ep.59 (w/ Nick Defour)"
+title: Nonchalance Calculée - Ep.59 (w/ Nick Defour)
 date: 2026-03-23T16:00:00.000+01:00
 category: radio
 draft: false
