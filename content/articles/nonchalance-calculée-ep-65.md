@@ -6,3 +6,21 @@ draft: false
 featured: false
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2409440502&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kioskradio" title="Kiosk Radio" target="_blank" style="color: #cccccc; text-decoration: none;">Kiosk Radio</a> · <a href="https://soundcloud.com/kioskradio/nonchalance-calculee-430586990" title="Nonchalance Calculée w/ Alex Deforce @ Kiosk Radio 28.09.2026" target="_blank" style="color: #cccccc; text-decoration: none;">Nonchalance Calculée w/ Alex Deforce @ Kiosk Radio 28.09.2026</a></div>
+
+SERGE VAN DUIJNHOVEN - DICHTER ZONDER MEER. VOOR ALLE KAPITEINS VAN
+BURGER SERVICE - [ABNORMALE MOEILIJKE DINGEN UIT JE HOOFD LEREN](https://burgerservice.bandcamp.com)
+DE RAGGENDE MANNE - TELKENS WEER
+BEDWETTER - [FONDLY EULOGIZING SLEEP](https://liluglymane.bandcamp.com)
+FRED ANGST - [EN NU? (BUTSENZELLER RFX)](https://zool.bandcamp.com)
+KA BAIRD - [EBUZA (DE NOR 2020)](https://ultraeczema.bandcamp.com/track/ebuza)
+FAITS D'HIVER - [MAANDAG](https://tundrarecords.bandcamp.com)
+LIZZY VANDIERENDONCK - [FACES LIKE UNMADE BEDS](https://lizzyvandierendonck.bandcamp.com)
+INTERLUDE GABI NTS MORGEN DE KNOOP
+STERK WATER - [GORDIJN](https://futuraresistenza.bandcamp.com)
+JJULIUS - [RINGER Å RINGER](https://mammasmysteriskajukebox.bandcamp.com/track/ringer-ringer)
+RAT - [CONFINES](https://futuraresistenza.bandcamp.com)
+GELE BAND - [PLICHT ROEPT!](https://worldofpaint.bandcamp.com/track/plicht-roept)
+LIZÈNE - LE SLIP (1971 - REMIX 11.2000)
+VERQUE - [HET ORGEL EN DE KOE](https://worldofpaint.bandcamp.com/track/het-orgel-en-de-koe)
+BURGER SERVICE - [DRUKTE IN HET BUITENLAND](https://burgerservice.bandcamp.com)
+DE KOOL & LERIJ - [ETALAGEPOP](https://worldofpaint.bandcamp.com/track/etalagepop)
