@@ -1,5 +1,5 @@
 ---
-title: Morgen De Knoop (live met burgerservice) - KANTL, Gent
+title: Morgen De Knoop (live met burger service) - KANTL, Gent
 draft: false
 date: 2025-07-20T16:00:00.000Z
 ---
